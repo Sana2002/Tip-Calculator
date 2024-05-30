@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App name -->
+    <string name="app_name">Tip Calculator</string>
+
+    <!-- Hint text for editable text field where the user enters the cost of service -->
+    <string name="service_cost">Service Cost</string>
+
+    <!-- Question prompt for the group of radio buttons with different tip options -->
+    <string name="rate_the_service">Rate the service?</string>
+
+    <!-- Tip option for amazing service which uses 20% to calculate the tip  -->
+    <string name="excellent_service">Excellent (20%)</string>
+
+    <!-- Tip option for good service which uses 18% to calculate the tip  -->
+    <string name="good_service">Good (18%)</string>
+
+    <!-- Tip option for okay service which uses 16% to calculate the tip  -->
+    <string name="fair_service">Fair (15%)</string>
+
+    <!-- Text label for toggle switch that asks the user if they want to round up the tip  -->
+    <string name="tip_round_up">Tip round  up?</string>
+
+    <!-- Label for button that calculates the tip  -->
+    <string name="calculate">Calculate</string>
+
+    <!-- Formatted string for the tip result  -->
+    <string name="tip_amount">Tip Amount: %s</string>
+</resources>
